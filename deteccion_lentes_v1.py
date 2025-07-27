@@ -80,6 +80,6 @@ def verificar_presencia_de_lentes(ruta_imagen:str, umbral:float=0.5)->str:
 if __name__=="__main__":
     ruta = (
         r"C:\Users\Administrador\Documents\INGENIERIA_EN_SOFTWARE"
-        r"\PROYECTO_FOTOGRAFIAS_ESTUDIANTES\datasets\validated_color\0104651666.jpg"
+        r"\PROYECTO_FOTOGRAFIAS_ESTUDIANTES\datasets\validated_color\1726138652.jpg"
     )
     verificar_presencia_de_lentes(ruta)
