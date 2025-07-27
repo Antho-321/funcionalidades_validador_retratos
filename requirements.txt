@@ -3,3 +3,4 @@ autodistill-detic
 supervision
 centernet2
 git+https://github.com/openai/CLIP.git
+XlsxWriter
